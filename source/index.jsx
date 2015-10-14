@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react/addons';
 
 const Modal = React.createClass({
   displayName: 'Modal',
